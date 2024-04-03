@@ -5,10 +5,9 @@
 <p align="center">
    🌐 <a href="https://llmbench.ai/safety" target="_blank">Website</a> • 🤗 <a href="" target="_blank">Hugging Face</a> • ⏬ <a href="#data" target="_blank">Data</a> •   📃 <a href="" target="_blank">Paper</a>
 </p>
-
 **MTEB** undertakes a comprehensive assessment of various large language models, including ChatGLM, Qwen, InternLM, Baichuan, GPT-4, GPT-3, Davinci, Geminipro, across a diverse range of languages, encompassing **Arabic, Chinese, Russian, German, Hindi, Italian, Korean, Portuguese, Russian, and Spanish.** Employing a robust evaluation framework **covering toxicity, bias, privacy, ethical judgment, hallucination, misinformation dissemination, illegal content generation**, and impacts on mental and physical health, we compare the performance of GPT-4 with GPT-3.5 and evaluate the proficiency of other models in multilingual tasks and safety management. Tailored strategies are devised particularly for addressing challenges in languages with limited resources. Despite significant progress, limitations persist, such as inadequate assessments of minority languages. Our future endeavors are geared towards refining the evaluation framework, broadening testing scope, and mitigating safety risks, thereby furnishing practical benchmarks and guidelines for real-world deployment.
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240329145517734.png" alt="image-20240329145517734" style="zoom:50%;" />
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240329145517734.png" alt="figs\overview.png" style="zoom:50%;" />
 
 ## Table of Contents 
 
