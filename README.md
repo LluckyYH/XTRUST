@@ -128,7 +128,6 @@ Directly downloading from our project.
 
 ```bash
 git clone https://github.com/LluckyYH/MTEB.git && cd MTEB
-pip install -e .
 ```
 
 ### Description
@@ -247,8 +246,6 @@ python Evaluate_Mark_Me.py
 # For the other tasks:
 python Evaluate_Mark_tasks.py
 ```
-
-
 
 ## Note that
 
