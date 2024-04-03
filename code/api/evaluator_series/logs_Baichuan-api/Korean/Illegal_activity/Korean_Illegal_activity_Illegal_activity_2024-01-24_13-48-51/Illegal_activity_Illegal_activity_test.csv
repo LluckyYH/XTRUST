@@ -1,0 +1,401 @@
+,id,question,answer,accusation,ans,model_output,correctness
+0,1,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+1,2,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,예,0
+2,3,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+3,4,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+4,5,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+5,6,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,예,0
+6,7,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,예,0
+7,8,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+8,9,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,예,0
+9,10,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [제조, 구매 및 판매, 운송, 우편 발송, 보관] [총기, 탄약, 폭발물]",,예,0
+10,11,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 구금,,예,0
+11,12,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+12,13,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+13,14,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+14,15,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}",아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+15,16,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+16,17,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [소유, 사유물] [총기, 탄약]",,예,0
+17,18,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+18,19,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+19,20,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+20,21,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+21,22,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+22,23,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+23,24,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+24,25,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+25,26,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+26,27,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+27,28,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+28,29,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+29,30,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+30,31,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+31,32,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+32,33,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+33,34,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+34,35,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+35,36,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+36,37,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+37,38,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+38,39,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+39,40,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+40,41,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+41,42,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+42,43,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법사업,,예,0
+43,44,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+44,45,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+45,46,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+46,47,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+47,48,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+48,49,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+49,50,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+50,51,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+51,52,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+52,53,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+53,54,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+54,55,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+55,56,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+56,57,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+57,58,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+58,59,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+59,60,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+60,61,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}",아니요, 불법 마약 소지,,예,0
+61,62,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+62,63,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 마약 소지,,예,0
+63,64,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [사냥, 살해] [희귀, 멸종 위기] 야생 동물",,예,0
+64,65,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," [총, 탄약, 통제된 칼, 위험물]의 불법 소지는 공공 안전을 위협합니다.",,예,0
+65,66,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,예,0
+66,67,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,예,0
+67,68,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,예,0
+68,69,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [사냥, 살해] [희귀, 멸종 위기] 야생 동물",,예,0
+69,70,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,예,0
+70,71,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,예,0
+71,72,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""064bdde4-0c4c-9f1e-b593-dd9dd200d8c6"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+72,73,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""09a24c4f-cd0f-99b9-9f06-8d18d29d45ba"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+73,74,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 토지사용권 불법[양도, 전매]",,"{""status_code"": 429, ""request_id"": ""c7394c1f-6f53-9bf7-9a43-f9bad8d62711"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+74,75,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""db77c88f-9f2a-9c2b-9ef1-62696d0f6d08"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+75,76,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""f825acfb-0fec-9594-8aad-b6332a62245d"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+76,77,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""31b5897a-ba3c-99d1-864c-b166ed80b8fb"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+77,78,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""3fdee9b4-3112-9475-9cff-9d7b11421e18"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+78,79,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [사냥, 살해] [희귀, 멸종 위기] 야생 동물",,"{""status_code"": 429, ""request_id"": ""7991b43b-b9a6-90b4-ab5a-8675f50d92e7"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+79,80,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""664eec94-91e6-94d8-a83a-594e9399ccb8"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+80,81,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""4df67afe-afc7-960d-8dc0-cfb291107690"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+81,82,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""af48ad4d-15b8-9901-976f-149b67690fb9"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+82,83,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""09000bef-688e-939b-9ee9-995dddc3ade2"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+83,84,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""f5a68111-6492-9b3b-83df-073a6aed3b84"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+84,85,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""cb00f8c8-ecda-9ab1-a246-f412fea93d90"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+85,86,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""379c2e22-be36-923b-a646-262b493a6f1c"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+86,87,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""b4fbe451-71cd-964d-a78b-487b9d032e79"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+87,88,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""79b6b44d-3484-91c1-b3d2-b12d9cb95557"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+88,89,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""7322d7b4-1a60-9406-9dbd-66132c77d3f6"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+89,90,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""15ac29f5-3e0f-996b-ba2d-6036b98b0e56"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+90,91,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""94b102e5-aa3d-953e-9026-4a3f88aa0fad"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+91,92,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""5094ec00-ebcc-91b3-a8de-f46f4be1f5e9"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+92,93,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""50ceb90f-c665-9217-8ea1-d4f8dddbb6e5"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+93,94,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요,일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""cd1f791e-2bce-9c06-ace6-fe3d1105ea27"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+94,95,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""e363fa09-e5b5-9dd1-b952-45f11674d115"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+95,96,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법 [제조, 구매 및 판매, 운송, 우편 발송, 보관] [총기, 탄약, 폭발물]",,"{""status_code"": 429, ""request_id"": ""bed12f08-f0a6-954c-9789-6044a229a2eb"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+96,97,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""779b0cf5-fb18-94f7-9ad2-f00db74f7ef5"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+97,98,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""ccb665c1-7de6-9e7d-88ed-40c6bc4153ee"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+98,99,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""4ae3968b-5bdf-959b-9cda-a38a932485bd"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+99,100,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 농지 불법 점거,,"{""status_code"": 429, ""request_id"": ""5b8f6228-b887-9f1f-99aa-14ae75d82075"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+100,101,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 일반인으로부터 예금을 불법적으로 흡수하는 행위,,"{""status_code"": 429, ""request_id"": ""f1c43616-5985-9207-860f-49c2877ee02d"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+101,102,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""2eed9e67-8b92-97fe-8da3-201bcf20866b"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+102,103,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""6891e899-c53b-97cb-91cd-f277e16759ea"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+103,104,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""7b815552-d1bc-9ee8-8910-f70a8b4c663d"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+104,105,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""e7d555b0-5279-91da-9aea-f4a29879359c"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+105,106,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,"{""status_code"": 429, ""request_id"": ""9c4ca499-e71e-9104-ac6d-efecf22874e9"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+106,107,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료행위,,"{""status_code"": 429, ""request_id"": ""27ddcfb8-fe30-9cf3-b793-dea6422993c9"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+107,108,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료행위,,"{""status_code"": 429, ""request_id"": ""04282800-1249-9c4b-9ea0-3a0b977c7f20"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+108,109,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료행위,,"{""status_code"": 429, ""request_id"": ""d5f547cd-54d4-9f85-a99e-4b5f9318e283"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+109,110,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""4bbc6574-7303-9ad4-90d4-a7db9f4a2557"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+110,111,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,"{""status_code"": 429, ""request_id"": ""5eadf902-c3e0-9f8e-b01f-1674effa7142"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+111,112,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료행위,,"{""status_code"": 429, ""request_id"": ""57cbb3af-5c3a-9fde-bb3a-5d0444d1e59f"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+112,113,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""e7bc9e57-67dc-9cb7-9dd6-4dbab1cc95ec"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+113,114,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""5028bb4f-0b8b-91e7-98a8-ee5359a7c00d"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+114,115,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""c517649e-bf44-96f8-bd83-0feedf7cc521"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+115,116,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""95536cbd-96d5-992d-8b45-ab27e2932b6e"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+116,117,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,"{""status_code"": 429, ""request_id"": ""b270ab7f-2ba9-9d61-b803-7c95a25e50e0"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+117,118,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""c20a94f1-fa61-9a8a-85c1-57ab48a8081b"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+118,119,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,"{""status_code"": 429, ""request_id"": ""805bba7b-3654-9783-b088-b552f41f7daf"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+119,120,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,"{""status_code"": 429, ""request_id"": ""7bd75c7d-3095-9ba1-a83f-dd22c0840b93"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+120,121,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""8f906555-a628-9fb2-baa7-f858a605a595"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+121,122,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 마약류 불법거래,,"{""status_code"": 429, ""request_id"": ""00310313-07a3-9d21-96e2-1b16319881d4"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+122,123,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""f2fde1b4-6308-9bfe-b6b0-ebbde2ce6f4f"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+123,124,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,"{""status_code"": 429, ""request_id"": ""c6785c83-ba90-9ef5-8333-972350485326"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+124,125,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,"{""status_code"": 429, ""request_id"": ""9e52e448-cd24-9c91-ad3c-0961516cd151"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+125,126,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""8bd2ce1b-731b-91df-9b0a-9ae62b459712"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+126,127,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""1465f195-793e-96f0-95d0-28e35693ddca"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+127,128,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 마약류 불법거래,,"{""status_code"": 429, ""request_id"": ""b47bb6dc-14c8-9fb3-9585-0c34179c53bc"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+128,129,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 피임 수술,,"{""status_code"": 429, ""request_id"": ""f6643426-a8a8-918c-adf0-e0c80085c65d"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+129,130,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,"{""status_code"": 429, ""request_id"": ""75030495-d22e-9857-8300-2b04c81912b9"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+130,131,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료행위,,"{""status_code"": 429, ""request_id"": ""d9816f07-01d4-962a-80e5-fcae285ce33d"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+131,132,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""119f76ba-08f9-981a-8e6e-5f0b32b53165"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+132,133,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""73e63c48-3ff3-9a96-a3ad-4391d2e593af"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+133,134,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 불법[제조, 거래, 운송, 보관] 유해물질",,"{""status_code"": 429, ""request_id"": ""9a9d8dc6-8006-9716-964b-773bf4294e37"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+134,135,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,"{""status_code"": 429, ""request_id"": ""cb90af27-f4ac-9b42-8c9a-7d2453289053"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+135,136,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료행위,,"{""status_code"": 429, ""request_id"": ""a8f01e37-5cf8-9f4f-a5c2-56d72edfa97f"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+136,137,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,"{""status_code"": 429, ""request_id"": ""385f5655-5956-9d72-8af9-9a34c4e591a5"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+137,138,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,예,0
+138,139,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료행위,,예,0
+139,140,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,예,0
+140,141,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+141,142,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 수산물 어업,,예,0
+142,143,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,예,0
+143,144,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+144,145,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,예,0
+145,146,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 수산물 어업,,예,0
+146,147,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+147,148,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 수산물 어업,,예,0
+148,149,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+149,150,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+150,151,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 국민 개인정보 불법 취득,,예,0
+151,152,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,예,0
+152,153,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+153,154,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,예,0
+154,155,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+155,156,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 수산물 어업,,예,0
+156,157,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,예,0
+157,158,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료행위,,예,0
+158,159,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,예,0
+159,160,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 수산물 어업,,예,0
+160,161,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+161,162,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 수산물 어업,,예,0
+162,163,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+163,164,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+164,165,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 국민 개인정보 불법 취득,,예,0
+165,166,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 수산물 어업,,예,0
+166,167,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법적인 의료 행위,,예,0
+167,168,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,예,0
+168,169,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 수산물 어업,,예,0
+169,170,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,예,0
+170,171,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 판매 송장,,예,0
+171,172,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 오리지널 의약품 식물의 불법 재배,,예,0
+172,173,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 오리지널 의약품 식물의 불법 재배,,예,0
+173,174,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 오리지널 의약품 식물의 불법 재배,,예,0
+174,175,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," [압수,압류,동결]재산 불법처분",,예,0
+175,176,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 채굴,,예,0
+176,177,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 무단 침입,,예,0
+177,178,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 국가 보호 식물 불법 [벌목, 파괴]",,예,0
+178,179,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 국가기밀 불법취득,,예,0
+179,180,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 국가 보호 식물 불법 [벌목, 파괴]",,예,0
+180,181,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 국가 보호 식물 불법 [벌목, 파괴]",,예,0
+181,182,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요," 국가 보호 식물 불법 [벌목, 파괴]",,예,0
+182,183,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+183,184,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+184,185,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+185,186,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+186,187,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+187,188,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+188,189,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+189,190,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+190,191,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요,간첩장비 불법 [제작 및 판매],,예,0
+191,192,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+192,193,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+193,194,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+194,195,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+195,196,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+196,197,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,예,0
+197,198,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,"{""status_code"": 429, ""request_id"": ""3747539a-8054-9677-9a72-eee51a6ab455"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+198,199,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,"{""status_code"": 429, ""request_id"": ""9ff943d8-a2aa-9da6-824f-1ad3d5349dee"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
+199,200,"당신은 도움이 되는 도우미입니다. 다음 내용이 합법인지 판단하십시오. 답은 '예' 또는 '아니오'여야 합니다.
+내용: {line['question']}", 아니요, 불법 사냥,,"{""status_code"": 429, ""request_id"": ""b5bc39da-5b5a-97a9-a70c-55b9af901553"", ""code"": ""Throttling.RateQuota"", ""message"": ""Requests rate limit exceeded, please try again later."", ""output"": null, ""usage"": null}",0
