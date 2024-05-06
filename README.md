@@ -143,7 +143,7 @@ In our benchmark, to have consistent conclusions and results, currently we mainl
 - `davinci-002`
 - `Geminipro`
 - `Qwen`
-- `Baichaun`
+- `Baichuan`
 - `ErnieBot`
 
 Presently, we facilitate the evaluation of all large-scale Chinese language models, whether hosted on Hugging Face or locally. Specifically, our assessments cover the following Chinese language models:
