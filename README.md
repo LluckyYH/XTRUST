@@ -1,5 +1,5 @@
 <div align="center">
-<img src="figs/logo.png" alt="MTEB" width="85%" />
+<img src="figs/logo.jpg" alt="MTEB" width="85%" />
 </div>
 
 <p align="center">
