@@ -154,7 +154,7 @@ Presently, we facilitate the evaluation of all large-scale Chinese language mode
 - `Qwen-7B`
 - `InternLM-7B`
 
-## How to Evaluate on MTEB
+## How to Evaluate on XTRUST
 
 In our paper, we conducted experiments on different languages and tasks across various security dimensions. We extracted predicted answers from the model's responses. An example of evaluation code can be found in code. Below is a test sample for our `Russian question answering task`.
 
