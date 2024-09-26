@@ -1,5 +1,5 @@
 <div align="center">
-<img src="figs/logo.jpg" alt="MTEB" width="85%" />
+<img src="figs/logo.jpg" alt="XTRUST" width="85%" />
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@ Large language models (LLMs) have demonstrated remarkable capabilities across a 
   - [Download](#download)
   - [Description](#description)
 - [[Important] Candidate models](#[Important] Candidate models)
-- [How to Evaluate on MTEB](#How to Evaluate on MTEB)
+- [How to Evaluate on XTRUST](#How to Evaluate on XTRUST)
 - [Note that](#Note that)
 - [Citation](#citation)
 
@@ -127,7 +127,7 @@ The data subdirectories store the datasets we proposed/created, vital for credib
 Directly downloading from our project.
 
 ```bash
-git clone https://github.com/LluckyYH/MTEB.git && cd MTEB
+git clone https://github.com/LluckyYH/XTRUST.git && cd XTRUST
 ```
 
 ### Description
