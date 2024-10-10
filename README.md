@@ -257,5 +257,10 @@ To calculate the Toxicity task score, utilize **[the Perspective API](https://ww
 
 ## Citation
 ```
-
+@article{li2024xtrust,
+  title={XTRUST: On the Multilingual Trustworthiness of Large Language Models},
+  author={Li, Yahan and Wang, Yi and Chang, Yi and Wu, Yuan},
+  journal={arXiv preprint arXiv:2409.15762},
+  year={2024}
+}
 ```
